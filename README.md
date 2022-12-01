@@ -1,4 +1,4 @@
-# AMD-Hackintosh
+# My AMD Hackintosh setup
 
 ## Configuration
 |	Device	|	Descrtiption												|
@@ -16,3 +16,14 @@ USB Controllers:
 * ATI SB900 - OHCI USB Controller
 * ATI SB900 - EHCI USB 2.0 Controller
 * ASMedia ASM1042 USB 3.0 xHCI Controller
+
+## Resources
+Dortania's Guides:
+* [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+* [Getting started with ACPI](https://dortania.github.io/Getting-Started-With-ACPI/)
+* [OpenCore Post-Install](https://dortania.github.io/OpenCore-Post-Install/)
+* [Multiboot with OpenCore](https://dortania.github.io/OpenCore-Multiboot/)
+
+OpenCore, Patches, Kexts:
+* [OpenCore](https://github.com/acidanthera/OpenCorePkg)
+* [AMD Vanilla OpenCore](https://github.com/AMD-OSX/AMD_Vanilla)
