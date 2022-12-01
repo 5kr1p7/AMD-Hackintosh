@@ -7,7 +7,7 @@
 | Chipset	| AMD 990FX / SB950											|
 | CPU		| AMD FX 6300 (3500 MHz)										|
 | Memory	| 16 Gb Kingston 1333 MHz ECC DDR3 SDRAM (Multi-bit, Synchronous, Unbuffered)					|
-| SSD		| Kingston SV300S37A240G (240 Gb)									|
+| SSD		| Kingston SV300S37A240G (240 Gb, SATA 3)									|
 | Video		| MSI nVIDIA GeForce GT 710 (Kepler)									|
 | Sound		| 1) Realtek ALC892 (8 ch. HD)<br />2) nVIDIA GK208 HDMI/DP @ nVIDIA GK208					|
 | LAN		| 1) Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter<br />2) Intel EtherExpress PRO/100+ Management Adapter	|
