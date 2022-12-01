@@ -19,7 +19,7 @@ USB Controllers:
 
 ## Resources
 Dortania's Guides:
-* [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+* [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [Getting started with ACPI](https://dortania.github.io/Getting-Started-With-ACPI/)
 * [OpenCore Post-Install](https://dortania.github.io/OpenCore-Post-Install/)
 * [Multiboot with OpenCore](https://dortania.github.io/OpenCore-Multiboot/)
