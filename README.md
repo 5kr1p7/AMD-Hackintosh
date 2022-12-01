@@ -25,8 +25,8 @@ Dortania's Guides:
 * [Multiboot with OpenCore](https://dortania.github.io/OpenCore-Multiboot/)
 
 OpenCore, Patches, Kexts:
-* [OpenCore](https://github.com/acidanthera/OpenCorePkg)
-* [AMD Vanilla OpenCore](https://github.com/AMD-OSX/AMD_Vanilla)
+* [OpenCore](https://github.com/acidanthera/OpenCorePkg) — OpenCore bootloader
+* [AMD Vanilla OpenCore](https://github.com/AMD-OSX/AMD_Vanilla) — Native AMD macOS via OpenCore
 * [VirtualSMC](https://github.com/acidanthera/VirtualSMC) — SMC emulator layer
 * [Lilu Kext](https://github.com/acidanthera/Lilu) — Arbitrary kext and process patching on macOS
 * [WhateverGreen](https://github.com/acidanthera/WhateverGreen) — Lilu plugin providing patches to select GPUs on macOS
