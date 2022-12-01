@@ -18,13 +18,13 @@ USB Controllers:
 * ASMedia ASM1042 USB 3.0 xHCI Controller
 
 ## Resources
-Dortania's Guides:
+### Dortania's Guides
 * [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [Getting started with ACPI](https://dortania.github.io/Getting-Started-With-ACPI/)
 * [OpenCore Post-Install](https://dortania.github.io/OpenCore-Post-Install/)
 * [Multiboot with OpenCore](https://dortania.github.io/OpenCore-Multiboot/)
 
-OpenCore, Patches, Kexts:
+### OpenCore, Patches, Kexts
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) — OpenCore bootloader
 * [AMD Vanilla OpenCore](https://github.com/AMD-OSX/AMD_Vanilla) — Native AMD macOS via OpenCore
 * [VirtualSMC](https://github.com/acidanthera/VirtualSMC) — SMC emulator layer
