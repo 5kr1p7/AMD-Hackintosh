@@ -17,6 +17,12 @@ USB Controllers:
 * ATI SB900 - EHCI USB 2.0 Controller
 * ASMedia ASM1042 USB 3.0 xHCI Controller
 
+## Generate your own SMBIOS Information
+
+For privacy reasons, all SMBIOS information has been wiped out in the configuration file `EFI/OC/config.plist`. You need to generate your unique `SMBIOS` info by yourself (recommend to use [**CorpNewt's GenSMBIOS**](https://github.com/corpnewt/GenSMBIOS)), and inject them into your `config.plist`.
+
+- With every **EFI update**, please, remember to transfer your Device details under `PlatformInfo -> Generic` in your `config.plist`.
+
 ## Resources
 ### Dortania's Guides
 * [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
