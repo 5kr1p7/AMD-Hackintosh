@@ -32,4 +32,4 @@ USB Controllers:
 * [WhateverGreen](https://github.com/acidanthera/WhateverGreen) — Lilu plugin providing patches to select GPUs on macOS
 * [Apple ALC](https://github.com/acidanthera/AppleALC) — Native macOS HD audio for not officially supported codecs
 * [RTL8111 Driver for OS X](https://github.com/Mieze/RTL8111_driver_for_OS_X) — OS X open source driver for the Realtek RTL8111/8168 family
-* [https://github.com/chris1111/Geforce-Kepler-patcher](Geforce-Kepler-patcher) — macOS Monterey patch for GeForce Kepler
+* [Geforce-Kepler-patcher](https://github.com/chris1111/Geforce-Kepler-patcher) — macOS Monterey patch for GeForce Kepler
