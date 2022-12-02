@@ -1,0 +1,1250 @@
+[
+    {
+        "class": 32,
+        "hub_name": "USB#ROOT_HUB20#4&37566865&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+        "identifiers": {
+            "acpi_path": "\\_SB.PCI0.UHC2",
+            "bdf": [
+                0,
+                18,
+                2
+            ],
+            "driver_key": "{36fc9e60-c465-11cf-8056-444553540000}\\0015",
+            "instance_id": "PCI\\VEN_1002&DEV_4396&SUBSYS_43961002&REV_00\\3&267A616A&0&92",
+            "location_paths": [
+                "PCIROOT(0)#PCI(1202)",
+                "ACPI(_SB_)#ACPI(PCI0)#ACPI(UHC2)"
+            ],
+            "pci_id": [
+                "1002",
+                "4396",
+                "4396",
+                "1002"
+            ]
+        },
+        "name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u043d\u044b\u0439 PCI - USB \u0445\u043e\u0441\u0442-\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440",
+        "port_count": 5,
+        "ports": [
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 2
+                    }
+                ],
+                "guessed": 0,
+                "index": 1,
+                "name": "Port 1",
+                "selected": true,
+                "selection_index": 1,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 2
+                    }
+                ],
+                "guessed": 0,
+                "index": 2,
+                "name": "Port 2",
+                "selected": true,
+                "selection_index": 2,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": null,
+                        "name": "Unknown Device",
+                        "speed": 0
+                    },
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 2
+                    }
+                ],
+                "guessed": 0,
+                "index": 3,
+                "name": "Port 3",
+                "selected": true,
+                "selection_index": 3,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 2
+                    }
+                ],
+                "guessed": 0,
+                "index": 4,
+                "name": "Port 4",
+                "selected": true,
+                "selection_index": 4,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 2
+                    }
+                ],
+                "guessed": 0,
+                "index": 5,
+                "name": "Port 5",
+                "selected": true,
+                "selection_index": 5,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            }
+        ],
+        "selected_count": 5
+    },
+    {
+        "class": 32,
+        "hub_name": "USB#ROOT_HUB20#4&3892a9e2&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+        "identifiers": {
+            "acpi_path": "\\_SB.PCI0.UHC4",
+            "bdf": [
+                0,
+                19,
+                2
+            ],
+            "driver_key": "{36fc9e60-c465-11cf-8056-444553540000}\\0017",
+            "instance_id": "PCI\\VEN_1002&DEV_4396&SUBSYS_43961002&REV_00\\3&267A616A&0&9A",
+            "location_paths": [
+                "PCIROOT(0)#PCI(1302)",
+                "ACPI(_SB_)#ACPI(PCI0)#ACPI(UHC4)"
+            ],
+            "pci_id": [
+                "1002",
+                "4396",
+                "4396",
+                "1002"
+            ]
+        },
+        "name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u043d\u044b\u0439 PCI - USB \u0445\u043e\u0441\u0442-\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440",
+        "port_count": 5,
+        "ports": [
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": null,
+                        "name": "Unknown Device",
+                        "speed": 0
+                    },
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 2
+                    }
+                ],
+                "guessed": 0,
+                "index": 1,
+                "name": "Port 1",
+                "selected": true,
+                "selection_index": 6,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 2
+                    },
+                    {
+                        "devices": [],
+                        "instance_id": null,
+                        "name": "Unknown Device",
+                        "speed": 0
+                    }
+                ],
+                "guessed": 0,
+                "index": 2,
+                "name": "Port 2",
+                "selected": true,
+                "selection_index": 7,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 2
+                    },
+                    {
+                        "devices": [],
+                        "instance_id": null,
+                        "name": "Unknown Device",
+                        "speed": 0
+                    }
+                ],
+                "guessed": 0,
+                "index": 3,
+                "name": "Port 3",
+                "selected": true,
+                "selection_index": 8,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [],
+                "guessed": 0,
+                "index": 4,
+                "name": "Port 4",
+                "selected": false,
+                "selection_index": 9,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [],
+                "guessed": 0,
+                "index": 5,
+                "name": "Port 5",
+                "selected": false,
+                "selection_index": 10,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            }
+        ],
+        "selected_count": 3
+    },
+    {
+        "class": 32,
+        "hub_name": "USB#ROOT_HUB20#4&318406f3&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+        "identifiers": {
+            "acpi_path": "\\_SB.PCI0.UHC6",
+            "bdf": [
+                0,
+                22,
+                2
+            ],
+            "driver_key": "{36fc9e60-c465-11cf-8056-444553540000}\\0020",
+            "instance_id": "PCI\\VEN_1002&DEV_4396&SUBSYS_43961002&REV_00\\3&267A616A&0&B2",
+            "location_paths": [
+                "PCIROOT(0)#PCI(1602)",
+                "ACPI(_SB_)#ACPI(PCI0)#ACPI(UHC6)"
+            ],
+            "pci_id": [
+                "1002",
+                "4396",
+                "4396",
+                "1002"
+            ]
+        },
+        "name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u043d\u044b\u0439 PCI - USB \u0445\u043e\u0441\u0442-\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440",
+        "port_count": 4,
+        "ports": [
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 2
+                    },
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_5000\\0707253333443630",
+                        "name": "Patriot Memory",
+                        "speed": 2
+                    }
+                ],
+                "guessed": 0,
+                "index": 1,
+                "name": "Port 1",
+                "selected": true,
+                "selection_index": 11,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 2
+                    },
+                    {
+                        "devices": [],
+                        "instance_id": null,
+                        "name": "Unknown Device",
+                        "speed": 0
+                    }
+                ],
+                "guessed": 0,
+                "index": 2,
+                "name": "Port 2",
+                "selected": true,
+                "selection_index": 12,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [],
+                "guessed": 0,
+                "index": 3,
+                "name": "Port 3",
+                "selected": false,
+                "selection_index": 13,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [],
+                "guessed": 0,
+                "index": 4,
+                "name": "Port 4",
+                "selected": false,
+                "selection_index": 14,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            }
+        ],
+        "selected_count": 2
+    },
+    {
+        "class": 48,
+        "hub_name": "USB#ROOT_HUB30#5&3108fb9d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+        "identifiers": {
+            "bdf": [
+                7,
+                0,
+                0
+            ],
+            "driver_key": "{36fc9e60-c465-11cf-8056-444553540000}\\0021",
+            "instance_id": "PCI\\VEN_1B21&DEV_1042&SUBSYS_84881043&REV_00\\4&28B85F88&0&00A9",
+            "location_paths": [
+                "PCIROOT(0)#PCI(1501)#PCI(0000)",
+                "ACPI(_SB_)#ACPI(PCI0)#ACPI(PE21)#PCI(0000)"
+            ],
+            "pci_id": [
+                "1b21",
+                "1042",
+                "8488",
+                "1043"
+            ]
+        },
+        "name": "\u0420\u0430\u0441\u0448\u0438\u0440\u044f\u0435\u043c\u044b\u0439 \u0445\u043e\u0441\u0442-\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440 ASMedia USB 3.0 \u2014 0.96 (\u041c\u0430\u0439\u043a\u0440\u043e\u0441\u043e\u0444\u0442)",
+        "port_count": 4,
+        "ports": [
+            {
+                "class": 3,
+                "comment": null,
+                "companion_info": {
+                    "hub": "USB#ROOT_HUB30#5&3108fb9d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+                    "multiple_companions": false,
+                    "port": 3
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_5000\\0707253333443630",
+                        "name": "Patriot Memory",
+                        "speed": 3
+                    }
+                ],
+                "guessed": 3,
+                "index": 1,
+                "name": "Port 1",
+                "selected": true,
+                "selection_index": 15,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 3,
+                "comment": null,
+                "companion_info": {
+                    "hub": "USB#ROOT_HUB30#5&3108fb9d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+                    "multiple_companions": false,
+                    "port": 4
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_5000\\0707253333443630",
+                        "name": "Patriot Memory",
+                        "speed": 3
+                    }
+                ],
+                "guessed": 3,
+                "index": 2,
+                "name": "Port 2",
+                "selected": true,
+                "selection_index": 16,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "USB#ROOT_HUB30#5&3108fb9d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+                    "multiple_companions": false,
+                    "port": 1
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 2
+                    },
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_04F3&PID_0103\\6&2B63D42&0&3",
+                        "name": "\u0421\u043e\u0441\u0442\u0430\u0432\u043d\u043e\u0435 USB \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e",
+                        "speed": 0
+                    }
+                ],
+                "guessed": 3,
+                "index": 3,
+                "name": "Port 3",
+                "selected": true,
+                "selection_index": 17,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "USB#ROOT_HUB30#5&3108fb9d&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+                    "multiple_companions": false,
+                    "port": 2
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 2
+                    },
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_04F3&PID_0103\\6&2B63D42&0&4",
+                        "name": "\u0421\u043e\u0441\u0442\u0430\u0432\u043d\u043e\u0435 USB \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e",
+                        "speed": 0
+                    }
+                ],
+                "guessed": 3,
+                "index": 4,
+                "name": "Port 4",
+                "selected": true,
+                "selection_index": 18,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            }
+        ],
+        "selected_count": 4
+    },
+    {
+        "class": 48,
+        "hub_name": "USB#ROOT_HUB30#5&1bbd1af2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+        "identifiers": {
+            "bdf": [
+                8,
+                0,
+                0
+            ],
+            "driver_key": "{36fc9e60-c465-11cf-8056-444553540000}\\0022",
+            "instance_id": "PCI\\VEN_1B21&DEV_1042&SUBSYS_84881043&REV_00\\4&1F27578A&0&00AA",
+            "location_paths": [
+                "PCIROOT(0)#PCI(1502)#PCI(0000)",
+                "ACPI(_SB_)#ACPI(PCI0)#ACPI(PE22)#PCI(0000)"
+            ],
+            "pci_id": [
+                "1b21",
+                "1042",
+                "8488",
+                "1043"
+            ]
+        },
+        "name": "\u0420\u0430\u0441\u0448\u0438\u0440\u044f\u0435\u043c\u044b\u0439 \u0445\u043e\u0441\u0442-\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440 ASMedia USB 3.0 \u2014 0.96 (\u041c\u0430\u0439\u043a\u0440\u043e\u0441\u043e\u0444\u0442)",
+        "port_count": 4,
+        "ports": [
+            {
+                "class": 3,
+                "comment": null,
+                "companion_info": {
+                    "hub": "USB#ROOT_HUB30#5&1bbd1af2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+                    "multiple_companions": false,
+                    "port": 3
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_5000\\0707253333443630",
+                        "name": "Patriot Memory",
+                        "speed": 3
+                    }
+                ],
+                "guessed": 3,
+                "index": 1,
+                "name": "Port 1",
+                "selected": true,
+                "selection_index": 19,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 3,
+                "comment": null,
+                "companion_info": {
+                    "hub": "USB#ROOT_HUB30#5&1bbd1af2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+                    "multiple_companions": false,
+                    "port": 4
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_5000\\0707253333443630",
+                        "name": "Patriot Memory",
+                        "speed": 3
+                    }
+                ],
+                "guessed": 3,
+                "index": 2,
+                "name": "Port 2",
+                "selected": true,
+                "selection_index": 20,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "USB#ROOT_HUB30#5&1bbd1af2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+                    "multiple_companions": false,
+                    "port": 1
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 2
+                    },
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_09DA&PID_9090\\6&335EEF12&0&3",
+                        "name": "USB Device",
+                        "speed": 1
+                    }
+                ],
+                "guessed": 3,
+                "index": 3,
+                "name": "Port 3",
+                "selected": true,
+                "selection_index": 21,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "companion_info": {
+                    "hub": "USB#ROOT_HUB30#5&1bbd1af2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+                    "multiple_companions": false,
+                    "port": 2
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 2
+                    },
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_09DA&PID_9090\\6&335EEF12&0&4",
+                        "name": "USB Device",
+                        "speed": 1
+                    }
+                ],
+                "guessed": 3,
+                "index": 4,
+                "name": "Port 4",
+                "selected": true,
+                "selection_index": 22,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            }
+        ],
+        "selected_count": 4
+    },
+    {
+        "class": 16,
+        "hub_name": "USB#ROOT_HUB#4&ca1a60d&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+        "identifiers": {
+            "acpi_path": "\\_SB.PCI0.UHC1",
+            "bdf": [
+                0,
+                18,
+                0
+            ],
+            "driver_key": "{36fc9e60-c465-11cf-8056-444553540000}\\0014",
+            "instance_id": "PCI\\VEN_1002&DEV_4397&SUBSYS_43971002&REV_00\\3&267A616A&0&90",
+            "location_paths": [
+                "PCIROOT(0)#PCI(1200)",
+                "ACPI(_SB_)#ACPI(PCI0)#ACPI(UHC1)"
+            ],
+            "pci_id": [
+                "1002",
+                "4397",
+                "4397",
+                "1002"
+            ]
+        },
+        "name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439 OpenHCD USB \u0445\u043e\u0441\u0442-\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440",
+        "port_count": 5,
+        "ports": [
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_13FE&PID_3600\\10101930E6AA0500B21F0060",
+                        "name": "silicon-power",
+                        "speed": 1
+                    },
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_04F3&PID_0103\\5&3AFD18BD&0&1",
+                        "name": "\u0421\u043e\u0441\u0442\u0430\u0432\u043d\u043e\u0435 USB \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e",
+                        "speed": 0
+                    }
+                ],
+                "guessed": 0,
+                "index": 1,
+                "name": "Port 1",
+                "selected": true,
+                "selection_index": 23,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_04F3&PID_0103\\5&3AFD18BD&0&2",
+                        "name": "\u0421\u043e\u0441\u0442\u0430\u0432\u043d\u043e\u0435 USB \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e",
+                        "speed": 0
+                    }
+                ],
+                "guessed": 0,
+                "index": 2,
+                "name": "Port 2",
+                "selected": true,
+                "selection_index": 24,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_04F3&PID_0103\\5&3AFD18BD&0&3",
+                        "name": "\u0421\u043e\u0441\u0442\u0430\u0432\u043d\u043e\u0435 USB \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e",
+                        "speed": 0
+                    }
+                ],
+                "guessed": 0,
+                "index": 3,
+                "name": "Port 3",
+                "selected": false,
+                "selection_index": 25,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": null,
+                        "name": "Unknown Device",
+                        "speed": 0
+                    },
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_04F3&PID_0103\\5&3AFD18BD&0&4",
+                        "name": "\u0421\u043e\u0441\u0442\u0430\u0432\u043d\u043e\u0435 USB \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e",
+                        "speed": 0
+                    }
+                ],
+                "guessed": 0,
+                "index": 4,
+                "name": "Port 4",
+                "selected": false,
+                "selection_index": 26,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_04F3&PID_0103\\5&3AFD18BD&0&5",
+                        "name": "\u0421\u043e\u0441\u0442\u0430\u0432\u043d\u043e\u0435 USB \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e",
+                        "speed": 0
+                    }
+                ],
+                "guessed": 0,
+                "index": 5,
+                "name": "Port 5",
+                "selected": false,
+                "selection_index": 27,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            }
+        ],
+        "selected_count": 2
+    },
+    {
+        "class": 16,
+        "hub_name": "USB#ROOT_HUB#4&21f60ac4&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+        "identifiers": {
+            "acpi_path": "\\_SB.PCI0.USB3",
+            "bdf": [
+                0,
+                19,
+                0
+            ],
+            "driver_key": "{36fc9e60-c465-11cf-8056-444553540000}\\0016",
+            "instance_id": "PCI\\VEN_1002&DEV_4397&SUBSYS_43971002&REV_00\\3&267A616A&0&98",
+            "location_paths": [
+                "PCIROOT(0)#PCI(1300)",
+                "ACPI(_SB_)#ACPI(PCI0)#ACPI(USB3)"
+            ],
+            "pci_id": [
+                "1002",
+                "4397",
+                "4397",
+                "1002"
+            ]
+        },
+        "name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439 OpenHCD USB \u0445\u043e\u0441\u0442-\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440",
+        "port_count": 5,
+        "ports": [
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_04F3&PID_0103\\5&1CC56EFC&0&1",
+                        "name": "\u0421\u043e\u0441\u0442\u0430\u0432\u043d\u043e\u0435 USB \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e",
+                        "speed": 0
+                    }
+                ],
+                "guessed": 0,
+                "index": 1,
+                "name": "Port 1",
+                "selected": false,
+                "selection_index": 28,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_04F3&PID_0103\\5&1CC56EFC&0&2",
+                        "name": "\u0421\u043e\u0441\u0442\u0430\u0432\u043d\u043e\u0435 USB \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e",
+                        "speed": 0
+                    }
+                ],
+                "guessed": 0,
+                "index": 2,
+                "name": "Port 2",
+                "selected": true,
+                "selection_index": 29,
+                "status": "DeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [],
+                "guessed": 0,
+                "index": 3,
+                "name": "Port 3",
+                "selected": false,
+                "selection_index": 30,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [],
+                "guessed": 0,
+                "index": 4,
+                "name": "Port 4",
+                "selected": false,
+                "selection_index": 31,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [],
+                "guessed": 0,
+                "index": 5,
+                "name": "Port 5",
+                "selected": false,
+                "selection_index": 32,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            }
+        ],
+        "selected_count": 1
+    },
+    {
+        "class": 16,
+        "hub_name": "USB#ROOT_HUB#4&67395f2&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+        "identifiers": {
+            "acpi_path": "\\_SB.PCI0.UHC7",
+            "bdf": [
+                0,
+                20,
+                5
+            ],
+            "driver_key": "{36fc9e60-c465-11cf-8056-444553540000}\\0018",
+            "instance_id": "PCI\\VEN_1002&DEV_4399&SUBSYS_43991002&REV_00\\3&267A616A&0&A5",
+            "location_paths": [
+                "PCIROOT(0)#PCI(1405)",
+                "ACPI(_SB_)#ACPI(PCI0)#ACPI(UHC7)"
+            ],
+            "pci_id": [
+                "1002",
+                "4399",
+                "4399",
+                "1002"
+            ]
+        },
+        "name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439 OpenHCD USB \u0445\u043e\u0441\u0442-\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440",
+        "port_count": 2,
+        "ports": [
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [],
+                "guessed": 0,
+                "index": 1,
+                "name": "Port 1",
+                "selected": false,
+                "selection_index": 33,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [],
+                "guessed": 0,
+                "index": 2,
+                "name": "Port 2",
+                "selected": false,
+                "selection_index": 34,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            }
+        ],
+        "selected_count": 0
+    },
+    {
+        "class": 16,
+        "hub_name": "USB#ROOT_HUB#4&209dff44&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8}",
+        "identifiers": {
+            "acpi_path": "\\_SB.PCI0.USB5",
+            "bdf": [
+                0,
+                22,
+                0
+            ],
+            "driver_key": "{36fc9e60-c465-11cf-8056-444553540000}\\0019",
+            "instance_id": "PCI\\VEN_1002&DEV_4397&SUBSYS_43971002&REV_00\\3&267A616A&0&B0",
+            "location_paths": [
+                "PCIROOT(0)#PCI(1600)",
+                "ACPI(_SB_)#ACPI(PCI0)#ACPI(USB5)"
+            ],
+            "pci_id": [
+                "1002",
+                "4397",
+                "4397",
+                "1002"
+            ]
+        },
+        "name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439 OpenHCD USB \u0445\u043e\u0441\u0442-\u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440",
+        "port_count": 4,
+        "ports": [
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_09DA&PID_9090\\5&15D9C317&0&1",
+                        "name": "USB Device",
+                        "speed": 1
+                    },
+                    {
+                        "devices": [],
+                        "instance_id": null,
+                        "name": "Unknown Device",
+                        "speed": 0
+                    }
+                ],
+                "guessed": 0,
+                "index": 1,
+                "name": "Port 1",
+                "selected": true,
+                "selection_index": 35,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [
+                    {
+                        "devices": [],
+                        "instance_id": "USB\\VID_09DA&PID_9090\\5&15D9C317&0&2",
+                        "name": "USB Device",
+                        "speed": 1
+                    }
+                ],
+                "guessed": 0,
+                "index": 2,
+                "name": "Port 2",
+                "selected": true,
+                "selection_index": 36,
+                "status": "DeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [],
+                "guessed": 0,
+                "index": 3,
+                "name": "Port 3",
+                "selected": false,
+                "selection_index": 37,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            },
+            {
+                "class": 1,
+                "comment": null,
+                "companion_info": {
+                    "hub": "",
+                    "multiple_companions": false,
+                    "port": 0
+                },
+                "devices": [],
+                "guessed": 0,
+                "index": 4,
+                "name": "Port 4",
+                "selected": false,
+                "selection_index": 38,
+                "status": "NoDeviceConnected",
+                "type": null,
+                "type_c": false,
+                "user_connectable": true
+            }
+        ],
+        "selected_count": 2
+    }
+]
