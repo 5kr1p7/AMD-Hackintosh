@@ -32,6 +32,8 @@ For privacy reasons, all SMBIOS information has been wiped out in the configurat
 
 ### OpenCore, Patches, Kexts
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) — OpenCore bootloader
+* [ProperTree](https://github.com/corpnewt/ProperTree) — Cross platform GUI plist editor written in python
+* [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) — Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist
 * [AMD Vanilla OpenCore](https://github.com/AMD-OSX/AMD_Vanilla) — Native AMD macOS via OpenCore
 * [VirtualSMC](https://github.com/acidanthera/VirtualSMC) — SMC emulator layer
 * [Lilu Kext](https://github.com/acidanthera/Lilu) — Arbitrary kext and process patching on macOS
