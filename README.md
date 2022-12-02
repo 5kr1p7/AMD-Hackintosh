@@ -1,7 +1,7 @@
 # My AMD Hackintosh setup
 
-## Configuration
-|	Device	|	Descrtiption												|
+## System Configuration
+|	Device	|	Detail												|
 | ------------- | ----------------------------------------------------------------------------------------------------- |
 | Motherboard	| ASUS M5A99FX PRO R2.0 (rev1.xx) (1 PCI, 1 PCI-E x1, 4 PCI-E x16, 4 DDR3 DIMM (max 32 Gb, DDR3 2133(O.C.)/1866/1600/1333/1066 MHz), Audio, Gigabit LAN)								|
 | Chipset	| AMD 990FX / SB950											|
