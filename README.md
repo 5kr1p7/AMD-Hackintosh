@@ -12,7 +12,7 @@
 | Sound		| 1️⃣ Realtek ALC892 (8 ch. HD)<br />2️⃣ nVIDIA GK208 HDMI/DP @ nVIDIA GK208					|
 | LAN		| 1️⃣ Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter<br />2️⃣ Intel EtherExpress PRO/100+ Management Adapter	|
 
-USB Controllers:
+### USB Controllers
 * ATI SB900 - OHCI USB Controller
 * ATI SB900 - EHCI USB 2.0 Controller
 * ASMedia ASM1042 USB 3.0 xHCI Controller
