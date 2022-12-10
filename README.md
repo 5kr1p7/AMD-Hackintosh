@@ -1,4 +1,4 @@
-# My AMD Hackintosh setup
+# My AMD Hackintosh setup (Big Sur 11.7.1)
 
 ## System Configuration
 |	Device	|	Detail												|
